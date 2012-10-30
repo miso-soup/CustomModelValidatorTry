@@ -1,1 +1,3 @@
-﻿"ASP.NET MVC ValidationAttribute の検証メソッド内で、外部コンポーネントを利用する":http://d.hatena.ne.jp/miso_soup3/20121030/1351588416
+
+Blog "ASP.NET MVC ValidationAttributeの検証メソッド内で、外部コンポーネントを利用する":http://d.hatena.ne.jp/miso_soup3/20121030/1351588416
+のサンプルコードです
