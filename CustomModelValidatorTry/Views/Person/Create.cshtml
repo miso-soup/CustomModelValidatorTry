@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Create";
+}
+@model CustomModelValidatorTry.Models.Person
+
+<h2>Create</h2>
+
+@Html.ValidationSummary()
+
+@using (Html.BeginForm())
+{
+	@Html.TextBoxFor(m => m.Name)
+	<input type="submit" value="登録" />
+}
